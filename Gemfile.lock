@@ -1,3 +1,14 @@
+GIT
+  remote: https://github.com/honeniq/mareki.git
+  revision: 4c6c695ff8a4f1002f54cd27265d67dd5b42e3eb
+  specs:
+    mareki (0.1.0)
+
+PATH
+  remote: /Users/honeniq/prj/ruboty-mareki
+  specs:
+    ruboty-mareki (0.0.1)
+
 GEM
   remote: https://rubygems.org/
   specs:
@@ -68,10 +79,12 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
+  mareki!
   rake
   ruboty-alias
   ruboty-cron
   ruboty-google_image
+  ruboty-mareki!
   ruboty-redis
   ruboty-slack
   ruboty-talk
