@@ -4,8 +4,9 @@ GIT
   specs:
     mareki (0.1.0)
 
-PATH
-  remote: /Users/honeniq/prj/ruboty-mareki
+GIT
+  remote: https://github.com/honeniq/ruboty-mareki
+  revision: dd90f88cb038a4ab1429c0c983d7ed888abf95a5
   specs:
     ruboty-mareki (0.0.1)
 
