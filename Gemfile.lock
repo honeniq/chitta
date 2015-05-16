@@ -6,9 +6,9 @@ GIT
 
 GIT
   remote: https://github.com/honeniq/ruboty-mareki
-  revision: dd90f88cb038a4ab1429c0c983d7ed888abf95a5
+  revision: a6f44b3dd773729e1d35e7f944e03be37263c347
   specs:
-    ruboty-mareki (0.0.1)
+    ruboty-mareki (0.0.2)
 
 GEM
   remote: https://rubygems.org/
